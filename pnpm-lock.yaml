@@ -8,6 +8,7 @@ importers:
       '@builder.io/qwik-city': ^0.0.111
       add-nx-to-monorepo: ^15.2.1
       concurrently: ^7.4.0
+      nx: 15.2.1
       prettier: ^2.7.1
       wrangler: ^2.0.28
     dependencies:
@@ -16,6 +17,7 @@ importers:
       '@builder.io/qwik': 0.14.1
       add-nx-to-monorepo: 15.2.1
       concurrently: 7.4.0
+      nx: 15.2.1
       prettier: 2.7.1
       wrangler: 2.1.10
 
