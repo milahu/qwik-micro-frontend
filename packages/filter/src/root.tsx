@@ -8,7 +8,7 @@ import {
 	useOnDocument,
 } from "@builder.io/qwik";
 import styles from "./Filter.css?inline";
-import { tags } from "../../constants";
+import { tags } from "../../../constants";
 import { useLocation, isBrowser } from "helpers";
 interface State {
 	inputValue: string;

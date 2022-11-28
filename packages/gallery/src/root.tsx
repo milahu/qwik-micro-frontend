@@ -6,7 +6,7 @@ import {
 	useStylesScoped$,
 } from "@builder.io/qwik";
 import { GalleryItem } from "./components/GalleryItem/GalleryItem";
-import { images } from "../../constants";
+import { images } from "../../../constants";
 import { getCookie, useLocation, useFragmentRoot } from "helpers";
 import styles from "./Gallery.css?inline";
 
