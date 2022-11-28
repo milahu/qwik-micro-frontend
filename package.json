@@ -24,7 +24,6 @@
   "license": "ISC",
   "devDependencies": {
     "@builder.io/qwik": "^0.14.1",
-    "add-nx-to-monorepo": "^15.2.1",
     "concurrently": "^7.4.0",
     "nx": "15.2.1",
     "prettier": "^2.7.1",

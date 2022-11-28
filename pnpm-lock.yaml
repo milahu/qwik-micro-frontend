@@ -6,7 +6,6 @@ importers:
     specifiers:
       '@builder.io/qwik': ^0.14.1
       '@builder.io/qwik-city': ^0.0.111
-      add-nx-to-monorepo: ^15.2.1
       concurrently: ^7.4.0
       nx: 15.2.1
       prettier: ^2.7.1
@@ -15,7 +14,6 @@ importers:
       '@builder.io/qwik-city': 0.0.111
     devDependencies:
       '@builder.io/qwik': 0.14.1
-      add-nx-to-monorepo: 15.2.1
       concurrently: 7.4.0
       nx: 15.2.1
       prettier: 2.7.1
@@ -1104,20 +1102,6 @@ packages:
     resolution: {integrity: sha512-QOxyigPVrpZ2GXT+PFyZTl6TtOFc5egxHIP9IlQ+RbupQuX4RkT/Bee4/kQuC02Xkzg84JcT7oLYtDIQxp+v7w==}
     engines: {node: '>=0.4.0'}
     hasBin: true
-
-  /add-nx-to-monorepo/15.2.1:
-    resolution: {integrity: sha512-ACzEHpMQKwMRX0PSDe5Xyjwk84foFEFHCeSJANj4VSHpi9NNYgwA9ddltTIKH9vugDmTEMwARKA77Qb/2Bis8A==}
-    hasBin: true
-    dependencies:
-      enquirer: 2.3.6
-      ignore: 5.2.1
-      nx: 15.2.1
-      yargs-parser: 21.1.1
-    transitivePeerDependencies:
-      - '@swc-node/register'
-      - '@swc/core'
-      - debug
-    dev: true
 
   /ajv/6.12.6:
     resolution: {integrity: sha512-j3fVLgvTo527anyYyJOGTYJbG+vnnQYvE0m5mmkc1TK+nxAppkCLMIL0aZ4dblVCNoGShhm+kzE4ZUykBoMg4g==}
