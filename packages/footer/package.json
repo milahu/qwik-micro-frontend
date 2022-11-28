@@ -35,6 +35,7 @@
 	"private": true,
 	"type": "module",
 	"dependencies": {
+		"helpers": "link:../helpers",
 		"@builder.io/qwik-city": "^0.0.111"
 	}
 }
