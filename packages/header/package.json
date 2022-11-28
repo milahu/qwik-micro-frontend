@@ -29,7 +29,7 @@
 		"vite-tsconfig-paths": "3.5.0"
 	},
 	"dependencies": {
-		"helpers": "file:../helpers"
+		"helpers": "link:../helpers"
 	},
 	"engines": {
 		"node": ">=14"

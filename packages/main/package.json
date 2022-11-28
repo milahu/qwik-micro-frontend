@@ -22,7 +22,7 @@
 		"@typescript-eslint/parser": "5.30.7",
 		"eslint": "8.20.0",
 		"eslint-plugin-qwik": "0.0.103",
-		"helpers": "file:../helpers",
+		"helpers": "link:../helpers",
 		"prettier": "2.7.1",
 		"sass": "^1.55.0",
 		"typescript": "4.7.4",
