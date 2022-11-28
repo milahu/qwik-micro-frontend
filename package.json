@@ -16,6 +16,7 @@
 		"check:types": "pnpm --recursive run typecheck",
 		"check:lint": "pnpm --recursive run lint",
 		"check:format": "pnpm --recursive run check-format",
+		"build": "pnpm --recursive run build",
 		"deploy": "pnpm --recursive run deploy",
 		"format": "pnpm --recursive run format"
 	},
