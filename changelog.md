@@ -1,5 +1,11 @@
 # changelog
 
+## clean: move packages to packages folder
+
+before: packages are in root folder of git repo
+
+after: packges are in packages/ folder
+
 ## npm2pnpm
 
 because pnpm is just better than npm ...
