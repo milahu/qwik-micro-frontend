@@ -1,7 +1,11 @@
 {
   "name": "qwik-micro-frontends",
   "version": "0.0.0",
-  "description": "",
+  "description": "micro frontends based on the qwik framework",
+  "keywords": [
+    "qwik",
+    "micro-frontends"
+  ],
   "workspaces": [
     "helpers",
     "footer",
